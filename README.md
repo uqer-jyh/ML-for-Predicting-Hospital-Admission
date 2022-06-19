@@ -10,3 +10,10 @@ In this report, we will predict whether an individual is admitted or not given t
 
 ## Data exploration
 ![Data visualization](https://github.com/uqer-jyh/ML-for-Predicting-Hospital-Admission/blob/main/img/datavis.png)
+
+## Model evaluation
+* Confusion matrix for Gradient Boosting machine
+![Confusion matrix](https://github.com/uqer-jyh/ML-for-Predicting-Hospital-Admission/blob/main/img/caretconf.png)
+
+* ROC curves for Gradient Boosting machine
+![ROC curve](https://github.com/uqer-jyh/ML-for-Predicting-Hospital-Admission/blob/main/img/caretauc.png)
